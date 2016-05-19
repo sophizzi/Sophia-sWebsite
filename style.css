@@ -3,7 +3,21 @@ body{
 	font-family: 'Indie Flower', cursive;
 }
 
-h1 {
-	border:10px dotted #ffff66;
 
+
+
+img {
+	display: block;
+	height: 400px;
+	width:auto;
+}
+
+#title {
+	background:#cc99ff;
+	width: 600px;
+	border:10px dotted #ffff66;
+}
+
+#puppypicture {
+	background:#66ffcc;
 }
